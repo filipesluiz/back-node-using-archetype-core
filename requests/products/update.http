@@ -1,0 +1,9 @@
+PUT  http://{{up-down-cross}}/product
+content-type: application/json
+
+{
+    "_id": "5ef8f1f8565f6209040d2a40",
+    "name": "Updated Name",
+    "price": 1234,
+    "brand": "Brand"
+}

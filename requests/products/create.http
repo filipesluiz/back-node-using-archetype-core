@@ -1,0 +1,8 @@
+POST  http://{{up-down-cross}}/product
+content-type: application/json
+
+{
+    "name": "Name",
+    "price": 123,
+    "brand": "Brand"
+}
