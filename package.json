@@ -31,7 +31,7 @@
     "mongoose": "5.9.20",
     "class-transformer": "0.2.3",
     "class-validator": "0.12.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "randomstring": "1.1.5",
     "reflect-metadata": "0.1.12",
     "rimraf": "2.6.2",
